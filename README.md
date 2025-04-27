@@ -4,7 +4,7 @@ SID: 220208996
 
 ## Running the code
 
-First, run the development server:
+First, run the development server (you may need to run npm install first if it doesn't start):
 
 ```bash
 npm run dev
