@@ -1,0 +1,13 @@
+.hero {
+  margin: auto;
+  background-image: url('../../public/england_map.png');
+  background-color: #6df5ff95;
+  background-blend-mode: lighten;
+  width: 98%;
+  height: 450px;
+}
+
+.title {
+  margin: auto;
+  margin-left: auto;
+}
